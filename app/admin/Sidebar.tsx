@@ -1,4 +1,3 @@
-"use client";
 import { adminLinks } from "@/utils/links";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
